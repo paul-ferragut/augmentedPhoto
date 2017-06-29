@@ -11,7 +11,7 @@ void ofApp::setup(){
 	//ofSetWindowShape(2480,3508);
 
 	nCamera = -1;
-	folderName = "bigger tree";
+	folderName = "seating";
 	//folderName = "4 trees";
 	ofXml rcp;
 	rcp.load(folderName + "/" + folderName + ".rcp");

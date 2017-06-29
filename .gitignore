@@ -69,3 +69,4 @@ bin/augmentedPhoto_debug.exp
 augmentedPhoto.vcxproj.user
 *.exp
 *.log
+*.opendb

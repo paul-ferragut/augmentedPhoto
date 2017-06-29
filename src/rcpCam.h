@@ -1,9 +1,3 @@
-//
-//  sfmCamera.h
-//
-//  Created by Patricio Gonzalez Vivo on 11/2/14.
-//
-//
 
 #pragma once
 
