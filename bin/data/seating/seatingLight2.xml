@@ -1,0 +1,17 @@
+<group>
+	<enable>1</enable>
+	<lightType>1</lightType>
+	<UnknownName>Soft Shadow</UnknownName>
+	<shadowType>2</shadowType>
+	<color>0.324843, 0.240448, 0.482124, 1</color>
+	<cutoff>67.7444</cutoff>
+	<exponent>55.3383</exponent>
+	<intensity>0.789474</intensity>
+	<radius>1297.74</radius>
+	<nearClip>500</nearClip>
+	<farClip>4000</farClip>
+	<lightPosOffset>-341.338, -191.729, 418.214</lightPosOffset>
+	<lightLookAt>17.9531, -5.06372, -5.06372</lightLookAt>
+	<moveLight>0</moveLight>
+<group/>
+</group>

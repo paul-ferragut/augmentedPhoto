@@ -45,3 +45,27 @@ $RECYCLE.BIN/
 Network Trash Folder
 Temporary Items
 .apdisk
+*.suo
+*.obj
+bin/data/4 trees
+bin/data/bigger tree
+bin/data/leaning1
+bin/data/leaning2
+bin/data/leaning3
+bin/data/object1
+bin/data/object2
+*.png
+*.exe
+*.dll
+*.pdb
+obj/Release/augmentedPhoto.vcxprojResolveAssemblyReference.cache
+*.tlog
+obj/Release/augmentedPhoto.log
+*.cache
+*.ilk
+bin/augmentedPhoto_debug.exp
+*.lib
+*.db
+augmentedPhoto.vcxproj.user
+*.exp
+*.log

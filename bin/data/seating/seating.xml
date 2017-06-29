@@ -1,0 +1,17 @@
+<group>
+	<zImagePos>4827.07</zImagePos>
+	<fovManual>56.391</fovManual>
+	<modelScale>1, 1.00103, 1.00026</modelScale>
+	<roughness>0.0827068</roughness>
+	<save_image>0</save_image>
+	<baseColor>255, 255, 255, 255</baseColor>
+	<numLights>3</numLights>
+	<shadowOffset>0, 0, 0.05, 1</shadowOffset>
+	<opacityBlack>82.4436</opacityBlack>
+	<opacityWhite>255</opacityWhite>
+	<nearClipCamera>0.451128</nearClipCamera>
+	<farClipCamera>0</farClipCamera>
+	<lightMoveScale>0.31</lightMoveScale>
+<group/>
+<debug_View>1</debug_View>
+</group>
